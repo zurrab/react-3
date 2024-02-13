@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../js"
+		},
+		{
+			"path": "../../js2"
+		},
+		{
+			"path": "../../front end/js"
+		},
+		{
+			"path": "../../front end/js2"
+		},
+		{
+			"path": "../../meore_davaleba"
+		},
+		{
+			"path": "../../front end/meore_davaleba"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js"
+	}
+}
